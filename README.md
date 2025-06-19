@@ -1,28 +1,33 @@
-<h2 align="left">Hi 👋! My name is nahz</h2>
+## Hi there! 👋 I'm nahz
 
-###
 
-<img align="right" height="150" src="https://files.catbox.moe/1ijwsd.png"  />
 
-###
+## 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-</div>
+I am a developer who enjoys working on simple scripts.
 
-###
+## Skills & Technologies
 
-<div align="left">
-  <a href="https://www.youtube.com/@nahzto" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="mailto:ferris.fast@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+bash,lua,py
 
-###
+## Top Projects
+
+- [Cross-Sight](https://github.com/nahzto/Cross-Sight): A customizable crosshair overlay for games. ⭐ 0 | Language: Python
+- [List-maker](https://github.com/nahzto/List-maker): A list maker made in Python, I use it to make lists of games I want to play. ⭐ 0 | Language: Python
+- [Opium-Sorter](https://github.com/nahzto/Opium-Sorter): A simple batch sorter that sorts your downloads folder. ⭐ 0 | Language: Batchfile
+
+
+## GitHub Stats
+
+🌟 Public Repositories: 7
+👥 Followers: 0
+🔗 Following: 0
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nahzto&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- ⭐ Created [Cross-Sight](https://github.com/nahzto/Cross-Sight)
+- 📦 Updated [webby](https://github.com/nahzto/webby)
+- 📦 Updated [Opium-Sorter](https://github.com/nahzto/Opium-Sorter)
+- 📦 Updated [Fake-roblox-cheat-loader](https://github.com/nahzto/Fake-roblox-cheat-loader)
+- 📦 Created [List-maker](https://github.com/nahzto/List-maker)

@@ -4,7 +4,7 @@
 
 ## 
 
-I am a developer who enjoys working on simple scripts.
+I enjoy simple things
 
 ## Skills & Technologies
 
